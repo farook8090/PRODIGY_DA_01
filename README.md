@@ -1,2 +1,3 @@
-Hello , This is my First Task of My iNternship At Prodigy Info Tech , Pune
+## Introduction
 
+This repository contains my First Task At Prodigy Info Tech , Pune of My DS Intern. Each project includes the data used and visualization.
